@@ -1,2 +1,2 @@
-# libft 
-school 42 project 
+# libft (minilibrary)
+do make for creating libft.a
