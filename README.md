@@ -7,4 +7,4 @@
 ```sh
 make
 ```
-### 🏠 [Homepage](hhttps://github.com/skarryhi/Libft)
+### 🏠 [Homepage](https://github.com/skarryhi/Libft)
