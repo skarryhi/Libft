@@ -1,2 +1,10 @@
-# libft (minilibrary)
-do make for creating libft.a
+<h1 align="center">My very first own library 🤓</h1>
+
+#### Written on pure C
+
+#### - For creating libft.a
+
+```sh
+make
+```
+### 🏠 [Homepage](hhttps://github.com/skarryhi/libft)
